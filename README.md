@@ -25,7 +25,7 @@ That's it.
 When it comes to perf, you no longer have to worry about breaking your lib into multiple files.
 
 ## Custom builds
-Once your lib is broken into multiple files (or "components", or "assets", if you like), it's very easy to let your users pick only the components they're to need. Picnicc was built to do just that.
+Once your lib is broken into multiple files (or "components", or "assets", if you like), it's very easy to let your users pick only the components they're going to actually need. Picnicc was built to do just that.
 
 
 
