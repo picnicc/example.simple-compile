@@ -12,5 +12,17 @@ When it comes to perf, you no longer have to worry about breaking your lib into 
 ## Custom builds
 Once your lib is broken into multiple files (or components, or assets, if you like), it's very easy to let your users pick only the components they're to need.
 
+## And now, time to compile (with one click)
+
+Here, we get in touch with the picnicc API using a simple link. Picnicc will grab our picnicc.json file, and compile the assets listed in it.
+
+### Plain
+
+https://picni.cc/api/v1/build/?username=picnicc&project=simple-compile.js&picnicc=https://raw.github.com/picnicc/example.simple-compile/master/picnicc.json
+
+### Minified
+
+https://picni.cc/api/v1/build/?username=picnicc&project=simple-compile.js&picnicc=https://raw.github.com/picnicc/example.simple-compile/master/picnicc.json&minify=js
+
 
 
