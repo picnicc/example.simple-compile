@@ -2,7 +2,7 @@
 
 ## The gist
 
-This example shows you how to build a JS plugin made of modular components and compile it using [picnicc](https://picni.cc). 
+This example shows you how to build a JS plugin made of modular components and compile them into one file using [picnicc](https://picni.cc). 
 
 The idea is that each component of the library lies in its own file, which is a good coding practice. People can then choose to download your repo with all its files (dev), or let picnic deliver a compiled version of the library (prod).
 
