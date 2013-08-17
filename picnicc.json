@@ -1,9 +1,10 @@
 {
-  "version"  : "0.0.1" ,
-  "assets"   : [
-                "https://raw.github.com/picnicc/example.simple-compile/master/lib/yourPlugin.js",
-                "https://raw.github.com/picnicc/example.simple-compile/master/lib/components/hello.js",
-                "https://raw.github.com/picnicc/example.simple-compile/master/lib/components/foo.js",
-                "https://raw.github.com/picnicc/example.simple-compile/master/lib/components/bar.js"
-              ]
-}  
+	"version": "0.0.1",
+	"assets": [
+		"https://raw.github.com/picnicc/example.simple-compile/master/lib/yourPlugin.js",
+		"https://raw.github.com/picnicc/example.simple-compile/master/lib/components/hello.js",
+		"https://raw.github.com/picnicc/example.simple-compile/master/lib/components/foo.js",
+		"https://raw.github.com/picnicc/example.simple-compile/master/lib/components/bar.js"
+	],
+	"bits": []
+}
